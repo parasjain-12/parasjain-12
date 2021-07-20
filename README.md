@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paras-jain-1a9665154/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras-jain-1a9665154/" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/6470761/paras-jain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6470761/paras-jain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paras-jain-1a9665154/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="paras-jain-1a9665154/" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/6470761/paras-jain" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="6470761/paras-jain" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
