@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Paras Jain</h1>
-<h3 align="center">A passionate Data Science developer from India</h3>
+![](https://github.com/parasjain-12/parasjain-12/blob/main/darkside.jpg)
+The Dark-Mode always wins.
+
+Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
+
+### 👋 Hi, I'm Paras Jain.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasjain-12&label=Profile%20views&color=0e75b6&style=flat" alt="parasjain-12" /> </p>
 
