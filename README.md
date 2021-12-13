@@ -1,5 +1,5 @@
-![](https://github.com/parasjain-12/parasjain-12/blob/main/darkside.jpg)
-The Dark-Mode always wins.
+![](https://github.com/parasjain-12/parasjain-12/blob/main/github.jpg)
+
 
 Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 
